@@ -5,6 +5,7 @@ body {
 }
 
 /* Scrollbar */
+/*! Não funciona no firefox */
 
 ::-webkit-scrollbar {
     width: 10px;
