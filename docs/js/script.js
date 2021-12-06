@@ -1,3 +1,14 @@
+/*
+
+ █████  ██████  ██    ██ ███████ ███    ███  █████  ██      ██████   ██████  
+██   ██ ██   ██  ██  ██  ██      ████  ████ ██   ██ ██           ██ ██       
+███████ ██████    ████   ███████ ██ ████ ██ ███████ ██       █████  ███████  
+██   ██ ██   ██    ██         ██ ██  ██  ██ ██   ██ ██      ██      ██    ██ 
+██   ██ ██████     ██    ███████ ██      ██ ██   ██ ███████ ███████  ██████  
+                            abysmal26.github.io
+
+*/
+
 // Check if a new cache is available on page load
 window.addEventListener('load', function(e) {
     window.applicationCache.addEventListener('updateready', function(e) {
