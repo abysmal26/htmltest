@@ -1,13 +1,5 @@
-/*
-
- █████  ██████  ██    ██ ███████ ███    ███  █████  ██      ██████   ██████  
-██   ██ ██   ██  ██  ██  ██      ████  ████ ██   ██ ██           ██ ██       
-███████ ██████    ████   ███████ ██ ████ ██ ███████ ██       █████  ███████  
-██   ██ ██   ██    ██         ██ ██  ██  ██ ██   ██ ██      ██      ██    ██ 
-██   ██ ██████     ██    ███████ ██      ██ ██   ██ ███████ ███████  ██████  
-                            abysmal26.github.io
-
-*/
+// Abysmal - abysmal26.github.io
+// HyPeRiS
 
 // Check if a new cache is available on page load
 window.addEventListener('load', function(e) {
