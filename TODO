@@ -1,0 +1,3 @@
+
+Todo:
+  ☐ Quando uma variavel ser mudada pelo console mudar 'document.body.contentEditable' para true

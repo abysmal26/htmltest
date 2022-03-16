@@ -1,23 +1,16 @@
 /* Fonts */
-
-/* @import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap'); */
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
-
 body {
-    /* font-family: 'Fira Code'; */
-    font-family: 'Open Sans';
+    font-family: 'Arial';
 }
 
-/* Dark Theme */
-
+/* Background */
 body {
     background-color: #131212;
     color: white;
 }
 
 /* Scrollbar */
-/*! Não funciona no firefox */
-
+/*! Not work on firefox */
 ::-webkit-scrollbar {
     width: 10px;
     height: 10px;
@@ -28,14 +21,18 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: red;
+    background: #1a1a1a;
 }
 
-/* Link Color */
-
+/* Links */
 a {
     text-decoration: none;
-    color: red;
+    color: #BB9AF7;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #7b7b7b;
 }
 
 /* Other */
