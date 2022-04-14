@@ -1,6 +1,8 @@
 /* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
 body {
-    font-family: 'Arial';
+    font-family: 'Inter', sans-serif;
 }
 
 /* Background */
