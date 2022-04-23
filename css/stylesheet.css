@@ -37,6 +37,24 @@ a:hover {
     color: #7b7b7b;
 }
 
+/* end */
+
+#end {
+    font-family: 'Inter', sans-serif;
+    font-size: small;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 0vh;
+    padding-bottom: 0vh;
+}
+
+#end a {
+    color: #555;
+}
+
 /* Other */
 
 .center {
