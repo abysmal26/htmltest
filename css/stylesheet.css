@@ -7,8 +7,8 @@ body {
 
 /* Background */
 body {
-    background-color: #131212;
-    color: white;
+    background-color: #1E1E2E;
+    color: #D9E0EE;
 }
 
 /* Scrollbar */
@@ -19,26 +19,25 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-    background: #131212;
+    background: #1E1E2E;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #1a1a1a;
+    background: #302D41;
 }
 
 /* Links */
 a {
     text-decoration: none;
-    color: #BB9AF7;
+    color: #DDB6F2	;
 }
 
 a:hover {
     text-decoration: none;
-    color: #7b7b7b;
+    color: #F5C2E7;
 }
 
-/* end */
-
+/* End */
 #end {
     font-family: 'Inter', sans-serif;
     font-size: small;
@@ -52,11 +51,10 @@ a:hover {
 }
 
 #end a {
-    color: #555;
+    color: #575268;
 }
 
 /* Other */
-
 .center {
     position: absolute;
     left: 50%;
